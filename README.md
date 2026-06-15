@@ -1,25 +1,36 @@
-# Hi, I'm Nikitha 👋
-### Data Analyst | Analytics Engineer | Business Intelligence
+Hi, I'm Nikitha 👋
 
-I specialize in turning raw, fragmented data into insights that move the needle.
-With 4+ years of experience across Databricks and Accenture, I build automated
-pipelines and dashboards that support customer success, operations, and business
-performance at scale.
+Data Engineer | BI Developer | Analytics Professional
 
-🛠 **Tech Stack:** SQL, Python (Pandas/NumPy), Power BI, Tableau, DAX,
-   Databricks SQL, Apache Spark, Delta Lake, Amazon S3
+Building scalable data platforms, cloud analytics solutions, and BI products using SQL, Python, Spark, Snowflake, Databricks, and Microsoft Fabric.
 
-🎓 **Education:** MS in Information Systems, Central Michigan University
-   (Graduated May 2025)
+I am a Data Engineer and Business Intelligence Developer with 5+ years of experience building scalable data platforms, ETL pipelines, cloud-based analytics solutions, and interactive dashboards across healthcare and financial services domains.
 
-🚀 **Impact:**
-- Reduced manual reporting effort by 30% through automated Power BI dashboards
-- Cut Excel consolidation work by 8+ hours/week via Python & Power Query automation
-- Reduced metric discrepancies by 25% through dashboard-to-source reconciliation
-- Reduced Silver layer transformation code by 63% using declarative pipelines
-
-📌 **Featured Project:**
-End-to-End Data Engineering Pipeline — Databricks LakeFlow SDP
-Medallion architecture (Bronze/Silver/Gold) | Auto Loader | Amazon S3
-
-[LinkedIn](https://www.linkedin.com/in/nikitha20/) | nikithakalva07@gmail.com
+🚀 What I Work With
+  SQL, Python, PySpark
+  Power BI, DAX, Power Query
+  Snowflake, Databricks, Microsoft Fabric
+  Azure Data Factory, AWS, GCP
+  Apache Spark, Airflow, dbt
+  Data Warehousing & Data Modeling
+  ETL/ELT Development
+  Data Governance & Analytics Engineering
+📊 Areas of Interest
+  Modern Data Platforms
+  Cloud Data Engineering
+  Business Intelligence & Reporting
+  Data Quality & Governance
+  Analytics Engineering
+AI-Powered Data Solutions
+🎓 Education
+M.S. in Information Systems, Central Michigan University
+B.Tech in Computer Science, TKR College of Engineering & Technology
+🏆 Certifications
+Google Data Analytics Professional Certificate
+Cisco Certified Data Analytics Essentials
+Microsoft & LinkedIn Career Essentials in Data Analysis
+Accenture Data Analytics & Visualization Simulation
+📫 Connect With Me
+LinkedIn: linkedin.com/in/nikitha20
+GitHub: github.com/Nikithakalva07
+Email: nikithak207@gmail.com 
