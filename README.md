@@ -38,6 +38,5 @@ Microsoft & LinkedIn Career Essentials in Data Analysis
 Accenture Data Analytics & Visualization Simulation
 
 📫 Connect With Me
-LinkedIn: linkedin.com/in/nikitha20
 GitHub: github.com/Nikithakalva07
 Email: nikithak207@gmail.com 
